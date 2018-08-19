@@ -1,0 +1,13 @@
+apiVersion: v1
+description: A Helm chart for Kubernetes
+name: helm-generic-app
+keywords:
+  - http
+  - nginx
+  - www
+  - web
+home: https://github.com/arpit2438735/helm-generic-app
+version: 0.1.0
+maintainers:
+  - name: Arpit Srivastava
+    email: arpit2438735@gmail.com
